@@ -1,6 +1,6 @@
 """
 Módulo simple para la visualización 3D del Prisma ROE.
-Implementa la Funcionalidad 2 del proyecto ROE DuPont Interactivo.
+Implementa la Funcionalidad (Feature) 2 del proyecto ROE DuPont Interactivo.
 """
 
 import streamlit as st
