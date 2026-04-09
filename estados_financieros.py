@@ -1,6 +1,6 @@
 """
 Módulo para la generación de Estados Financieros Simplificados.
-Implementa la Funcionalidad 3 del proyecto ROE DuPont Interactivo.
+Implementa la Funcionalidad (Feature) 3 del proyecto ROE DuPont Interactivo.
 
 Este módulo genera visualizaciones de:
 - Estado de Resultados simplificado
